@@ -1,15 +1,17 @@
-### Hi there 👋
-<!--
-**Soumadeep03/Soumadeep03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, Soumadeep here 👋
+##
+<div>
+  <p>Undergrad at <a href="https://github.com/larymak/Html-Css-Recap">Heritage Institute of Technology</a><br>
+     Artificial Intelligence and Machine Learning Enthusiast</p>
+ 
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="250"/>
+</div>
 
-Here are some ideas to get you started:
+```python
+class Soumadeep03:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.user="Soumadeep03"
+        self.name="Soumadeep Maji"
+    
+```
