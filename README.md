@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/soumadeep-maji-075410224/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40">  
   </a>&nbsp;
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://twitter.com/Neel__19">
     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="github" height="40" width="40">
   </a>&nbsp;
 </p>
