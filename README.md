@@ -4,7 +4,7 @@
   <p><i>Undergrad at</i> <a href="https://github.com/larymak/Html-Css-Recap"><i>Heritage Institute of Technology</i></a><br>
      <i>Artificial Intelligence and Machine Learning Enthusiast</i></p>
   <p>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/soumadeep-maji-075410224/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40">  
   </a>&nbsp;
   <a href="https://github.com/[removed]" rel="nofollow noreferrer">
