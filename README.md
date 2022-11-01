@@ -1,5 +1,6 @@
 ### Hi, Soumadeep here 👋
 ##
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="250"/>
 <div>
   <p><i>Undergrad at</i> <a href="https://github.com/larymak/Html-Css-Recap"><i>Heritage Institute of Technology</i></a><br>
      <i>Artificial Intelligence and Machine Learning Enthusiast</i></p>
