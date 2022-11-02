@@ -7,7 +7,7 @@
 <div>
   <p><i>Undergrad at</i> <a href="https://github.com/larymak/Html-Css-Recap"><i>Heritage Institute of Technology.</i></a><br>
      <i>Artificial Intelligence and Machine Learning enthusiast and a deligent worker to the end and confident on performing all the tasks given with maximum accuracy and on time.<br>
-    :round_pushpin: Kolkata,India</i></p>
+  </p>
   <p>
   <a href="https://www.linkedin.com/in/soumadeep-maji-075410224/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="50" width="50">  
