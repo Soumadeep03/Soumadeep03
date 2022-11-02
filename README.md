@@ -45,7 +45,7 @@ class Soumadeep03:
     def __init__(self):
         self.user = "Soumadeep03"
         self.name = "Soumadeep Maji"
-        self.linkedIn = "https://www.linkedin.com"
+        self.linkedIn = "https://www.linkedin.com/in/soumadeep-maji-075410224/"
         self.skills = {
              'code': ['Python','Java','C','C++','Arduino'],
              'tools': ['Tensorflow','PyTorch','Numpy','Pandas','Jupyter Notebook','MySQL']
