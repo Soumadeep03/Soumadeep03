@@ -50,7 +50,7 @@ class Soumadeep03:
              'code': ['Python','Java','C','C++','Arduino'],
              'tools': ['Tensorflow','PyTorch','Numpy','Pandas','Jupyter Notebook','MySQL']
              }
-        self.architecture= ['Machine Learning','Deep Learning','Neural Networks']
+        self.architecture= ['Neural Networks','Data Acquisition', 'Data Processing', 'Data Modeling', 'Execution', 'Deployment']
         self.freetime = ['Open source contribution','Reading']
     def __str__(self):
         return self.name
